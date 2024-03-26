@@ -1,4 +1,4 @@
-module github.com/eavesmy/go-dydx
+module github.com/go-numb/go-dydx
 
 go 1.18
 
